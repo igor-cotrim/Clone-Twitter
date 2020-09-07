@@ -8,7 +8,7 @@
 
 <p align="center">
  <a href="#about">About</a> •
- <a href="#how-to-run">How to run</a> • 
+ <a href="#how-to-run-">How to run</a> • 
  <a href="#technology-">Technology</a> • 
  <a href="#license-">License</a> • 
  <a href="#author-">Author</a>
@@ -57,6 +57,10 @@ The following tools were used in the construction of the project:
 
 ---
 
+## Ideas to implement 📌
+
+- [ ] implement the twitter API
+- [ ] Create new routes with React Router
 
 ## License 📝
 
