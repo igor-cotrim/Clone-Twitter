@@ -48,7 +48,7 @@ Before you begin, you will need to have the following tools installed on your ma
 
 The following tools were used in the construction of the project:
 
-#### NetflixClone ([React](https://pt-br.reactjs.org/) + [TypeScript](https://www.typescriptlang.org))
+#### TwitterClone ([React](https://pt-br.reactjs.org/) + [TypeScript](https://www.typescriptlang.org))
 
 - [React Dom](https://pt-br.reactjs.org/docs/react-dom.html)
 - [React Scripts](https://www.npmjs.com/package/react-scripts)
