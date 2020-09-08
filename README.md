@@ -8,7 +8,7 @@
 
 <p align="center">
  <a href="#about">About</a> •
- <a href="#how-to-run-">How to run</a> • 
+ <a href="#how-to-run-ℹ">How to run</a> • 
  <a href="#technology-">Technology</a> • 
  <a href="#license-">License</a> • 
  <a href="#author-">Author</a>
@@ -22,7 +22,7 @@ To train React's knowledge, I made the Twitter profile page, using the concept o
 
 ---
 
-## How to run 🚀
+## How to run ℹ
 
 ```sh
 # Clone this repository
