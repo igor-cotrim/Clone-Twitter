@@ -8,6 +8,7 @@
 
 <p align="center">
  <a href="#about">About</a> •
+ <a href="#deploy-">Deploy</a> •
  <a href="#how-to-run-ℹ">How to run</a> • 
  <a href="#technology-">Technology</a> • 
  <a href="#license-">License</a> • 
@@ -19,6 +20,14 @@
 Twitter Clone
 
 To train React's knowledge, I made the Twitter profile page, using the concept of mobile first to be totally responsive.
+
+---
+
+## Deploy 📎
+
+[TWITTER CLONE](https://eager-williams-888ae7.netlify.app)
+
+![TWITTER CLONE](https://github.com/igor-cotrim/Clone-Twitter/blob/master/%7B032607A2-EDE2-43EE-A0BF-63D4A68818DA%7D.png.jpg)
 
 ---
 
